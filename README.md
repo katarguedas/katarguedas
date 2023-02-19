@@ -1,8 +1,8 @@
-### Hi there 👋
-My name is **Katharina**.
+## Hi there 👋
+### My name is **Katharina**.
 
 
-- 🔭 I’m currently working on a patient diary.
+- 🔭 I’m currently working on a patient diary, a react-app.
 <!--
 **katarguedas/katarguedas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
